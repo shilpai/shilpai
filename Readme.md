@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/J1j87sxO2iMFOeCdKG/giphy.gif" width="100px"> 🙋Hola!<img src="https://media.giphy.com/media/mA1lWnH0loTFzWYoMl/giphy.gif" width="100px"> 
+# <img src="https://media.giphy.com/media/J1j87sxO2iMFOeCdKG/giphy.gif" width="100px"> 🙋Hola!
 
 ![Shilpa Sonule](https://github.com/KritiThakrar/KritiThakrar/blob/master/Images/me.gif)
 
