@@ -3,7 +3,7 @@
 ![Shilpa Sonule](https://github.com/KritiThakrar/KritiThakrar/blob/master/Images/me.gif)
 
 ***
-<h4 align="center"> 🔭 I’m currently working on ReactJS
+ <h4 align="center"> 🔭 I’m currently working on ReactJS
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, TailwindCSS
 
@@ -27,18 +27,14 @@
 # Contact Me <img src="https://media.giphy.com/media/9tXsPh8IcW68X23udg/giphy.gif" width="80px">
 
 <p align="center">
-  <a href="https://www.instagram.com/shilpa_stories__/">
-    <img src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" width="50px" alt="insta"/>
-  </a>
+ 
   <a href="https://github.com/shilpai?tab=followers">
     <img src="https://img.shields.io/github/followers/shilpai?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/SShilpa05">
     <img src="https://img.shields.io/twitter/follow/SShilpa05?label=Twitter&logo=twitter&style=for-the-badge"  alt="Twitter badge" />
   </a>
-  <a href="https://www.facebook.com/Shilpa Sonule">
-    <img src="https://media.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="50px" alt="Facebook" />
-  </a>
+ 
   
  </p>
 <h2 align="canter">Languages and Tools</h2>
