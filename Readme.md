@@ -1,6 +1,7 @@
 # <img src="https://media.giphy.com/media/J1j87sxO2iMFOeCdKG/giphy.gif" width="100px"> 🙋Hola!
 <h1 align="center">Hi 👋, I'm Shilpa</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<a href="https://app.daily.dev/shil___08"><img align=right src="https://github.com/shilpai/shilpai/blob/master/devcard.svg" width="200" alt="Shilpa Sonule's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpai&label=Profile%20views&color=0e75b6&style=flat" alt="shilpai" /> </p>
 
