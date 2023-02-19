@@ -1,16 +1,12 @@
 # <img src="https://media.giphy.com/media/J1j87sxO2iMFOeCdKG/giphy.gif" width="100px"> 🙋Hola!
-<!-- <h1 align="center">Hi 👋, I'm Shilpa</h1> -->
-<!-- <h3 align="center">A passionate web developer from India</h3> -->
+<h1>Hi 👋, I'm Shilpa Sonule!</h1>
+<h2 >Developer who eats, sleeps, walks in JavaScript.</h2>
 
-
-- 🔭 I’m currently working on **ReactJS**
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, ReactJS, TailwindCSS**
-
+- 🌍 I’m based in India
+- 🚀 I’m currently working on **ReactJS**
+- 🧠 I’m currently learning **HTML, CSS, JavaScript, ReactJS, TailwindCSS**
 - 💬 Ask me about **MERN**
-
 - 📫 How to reach me **shilpasonule12@gmail.com**
-
 - ⚡ Fun fact **I am working on myself.**
 
 <h3 align="left">Connect with me:</h3>
